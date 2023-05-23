@@ -3,6 +3,7 @@
     height: 80px;
     background-color: #1C2B35;
     padding-left: 100px;
+    padding-right: 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
