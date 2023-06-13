@@ -15,3 +15,21 @@
     white-space: nowrap;
     color: #0E161A;
 }
+
+.clear-cart-btn {
+    width: 95%;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FF3030;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    margin: 10px auto;
+    padding: 0 16px;
+    color: #FFFFFF;
+}
